@@ -1,8 +1,9 @@
 ![Tanish Bansal Image](./banner.png)
 
 <h2>Hey! 👋</h2>
+<h3> <a href="https://bansaltanish.github.io/bio-data">Click here for My Profile</a> </h3>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers) (https://twitter.com/intent/follow?screen_name=TanishBansal)
 
 I'm Tanish Bansal!
 
