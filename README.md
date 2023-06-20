@@ -16,16 +16,18 @@ I'm Tanish Bansal!
 
 <h2>💻 I'm Currently working on</h2>
 
-- System Design and Data Visualization
+- System Design and Data Algorithms
 - Software Engineering
+- AWS
+- Leadership
 
 ### 🛠 &nbsp;Tech Stack
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![c++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails&logoColor=red)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
+![React](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-05122A?style=flat&logo=postgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
@@ -46,7 +48,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/shashank76/grpc_demo">
+    <a href="https://github.com/tanishbansal20/grpc">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=grpc_demo" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/shashank76/twilio_video_call_demo">
@@ -66,12 +68,12 @@ __Check out my GitHub repository:__
 <div>
   <p align="center">
   <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shashank76" width="700">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tanishbansal20" width="700">
    <br/>
    <br/>
-       <img src="https://github-readme-stats.vercel.app/api?username=shashank76&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for Shashank's" width="700">
+       <img src="https://github-readme-stats.vercel.app/api?username=tanishbansal20&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for Tanish's" width="700">
    <br/><br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank76&layout=compact" width="700"/></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=tanishbansal20&layout=compact" width="700"/></a>
   </p>
 </div>
 
