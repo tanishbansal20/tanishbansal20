@@ -87,7 +87,9 @@ __Check out my GitHub repository:__
    <br/>
        <img src="https://github-readme-stats.vercel.app/api?username=tanishbansal20&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for Tanish's" width="700">
    <br/><br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=tanishbansal20&layout=compact" width="700"/></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=tanishbansal20&layout=compact" width="700"/>
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishbansal20&theme=blue-green" width="700"/>
   </p>
 </div>
 
