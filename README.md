@@ -2,18 +2,17 @@
 
 <h2>Hey! 👋
   </br>
-  [![Profile](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bansaltanish.github.io/bio-data)
-  <a href="https://bansaltanish.github.io/bio-data"><img src="./resume.png"></a>
+  <a href="https://bansaltanish.github.io/bio-data">Resume <img src="resume.png"></a>
 </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TanishBansal)
 
 I'm Tanish Bansal!
 
-- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓  completed Master of Computer Applications at National Institute of technology Tiruchirappalli(NITT).
-- 👨‍🏫  Software Engineer with over 7+ years of experience in development and leadership. Strong knowledge of   Ruby on Rails framework, including core concepts and best practices.Proficient in developing and delivering web applications using RoR.
-- 🦾 I am creative, resourceful, flexible, with the ability to adapt to new and challenging priorities and maintain a positive attitude in the face of difficulties.Lead a team of 13 members, effectively coordinating and managing project deliverables.
+- 🤔  Exploring new technologies and developing software solutions to our world's tech problems.
+- 🎓  completed Master of Computer Applications at the National Institute of Technology Tiruchirappalli(NITT).
+- 👨‍🏫  Software Engineer with over 7+ years of experience in development and leadership. Strong knowledge of the Ruby on Rails framework, including core concepts and best practices.Proficient in developing and delivering web applications using RoR.
+- 🦾 I am creative, resourceful, and flexible, with the ability to adapt to new and challenging priorities and maintain a positive attitude in the face of difficulties.Lead a team of 13 members, effectively coordinating and managing project deliverables.
 - 🧘‍♂️ Familiarity with modern technologies and tools in the web development landscape. Proven ability to adapt to new technologies and stay up-to-date with current trends.
 - 😎 Excellent problem-solving and analytical skills to tackle complex challenges. Strong collaboration and communication skills for effective teamwork. Dedicated and enthusiastic about delivering high-quality solutions
 
