@@ -6,7 +6,7 @@
     <a href="https://bansaltanish.github.io/bio-data" rel="nofollow" style="">Resume </a>
   </span>
   <span>
-    <img src="/tanishbansal20/tanishbansal20/raw/main/resume.png" style="max-width: 6%;">
+    <img src="resume.png" style="max-width: 6% !important;">
   </span>
 </h2>
 
