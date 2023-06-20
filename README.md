@@ -2,12 +2,12 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/shashank76) [![GitHub followers](https://img.shields.io/github/followers/shashank76.svg?style=social&label=Follow)](https://github.com/shashank76?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers)
 
-I'm Shashank tripathi!
+I'm Tanish Bansal!
 
-- 🤔  Exploring new technologies and developing software    solutions to our worlds tech problems.
-- 🎓  Pursuing MS in Computer Science at University of Illinois at Springfield.
+- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓  completed Master of Computer Applications at National Institute of technology Tiruchirappalli(NITT).
 
 
 <h2>💻 I'm Currently working on</h2>
