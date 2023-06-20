@@ -2,7 +2,16 @@
 
 <h2>Hey! 👋
   </br>
+<<<<<<< Updated upstream
   <a href="https://bansaltanish.github.io/bio-data">Resume <img src="resume.png"></a>
+=======
+  <span style="top: -15px; position: relative;">
+    <a href="https://bansaltanish.github.io/bio-data" rel="nofollow" style="">Resume </a>
+  </span>
+  <span>
+    <img src="/tanishbansal20/tanishbansal20/raw/main/resume.png" style="max-width: 6%;">
+  </span>
+>>>>>>> Stashed changes
 </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TanishBansal)
