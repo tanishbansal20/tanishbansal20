@@ -8,6 +8,10 @@ I'm Tanish Bansal!
 
 - 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓  completed Master of Computer Applications at National Institute of technology Tiruchirappalli(NITT).
+- 👨‍🏫  Software Engineer with over 7+ years of experience in development and leadership. Strong knowledge of   Ruby on Rails framework, including core concepts and best practices.Proficient in developing and delivering web applications using RoR.
+- 🦾 I am creative, resourceful, flexible, with the ability to adapt to new and challenging priorities and maintain a positive attitude in the face of difficulties.Lead a team of 13 members, effectively coordinating and managing project deliverables.
+- 🧘‍♂️ Familiarity with modern technologies and tools in the web development landscape. Proven ability to adapt to new technologies and stay up-to-date with current trends.
+- 😎 Excellent problem-solving and analytical skills to tackle complex challenges. Strong collaboration and communication skills for effective teamwork. Dedicated and enthusiastic about delivering high-quality solutions
 
 
 <h2>💻 I'm Currently working on</h2>
