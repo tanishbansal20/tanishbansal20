@@ -2,12 +2,12 @@
 
 <h2>Hey! 👋
   </br>
-  <span style="top: -15px; position: relative;">
+  <span>
     <a href="https://bansaltanish.github.io/bio-data" rel="nofollow" style="">Resume </a>
   </span>
 </h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TanishBansal)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers)
 
 I'm Tanish Bansal!
 
@@ -54,16 +54,25 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/tanishbansal20/grpc">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=grpc_demo" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=grpc" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/shashank76/twilio_video_call_demo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=twilio_video_call_demo" alt="GitHub Stats" />
+    <a href="https://github.com/tanishbansal20/tanishbansal20">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=tanishbansal20" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/shashank76/vuerails_demo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=vuerails_demo" alt="GitHub Stats" />
+    <a href="https://github.com/tanishbansal20/shortner_urls">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=shortner_urls" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/shashank76/shortener">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashank76&repo=shortener" alt="GitHub Stats" />
+    <a href="https://github.com/tanishbansal20/search-results">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=search-results" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tanishbansal20/React-Find_FalconeApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=React-Find_FalconeApp" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tanishbansal20/Sample-okrs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=Sample-okrs" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/tanishbansal20/malana-3-blogs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=malana-3-blogs" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -84,6 +93,4 @@ __Check out my GitHub repository:__
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:tanish.sc@gmail.com">![tanish.sc@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/tanish-bansal-974423104/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
+<a href="mailto:tanish.sc@gmail.com">![tanish.sc@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/tanish-bansal-974423104/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/intent/follow?screen_name=TanishBansal/">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
