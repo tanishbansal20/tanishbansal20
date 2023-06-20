@@ -5,7 +5,7 @@
   <span style="top: -15px; position: relative;">
     <a href="https://bansaltanish.github.io/bio-data" rel="nofollow" style="">Resume </a>
   </span>
-  <span style="max-width: 6% !important;>
+  <span>
     <img src="resume.png" style="max-width: 6% !important;">
   </span>
 </h2>
