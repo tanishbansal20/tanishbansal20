@@ -2,7 +2,8 @@
 
 <h2>Hey! 👋
   </br>
-  [![Profile](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://twitter.com/intent/follow?screen_name=TanishBansal)
+  [![Profile](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bansaltanish.github.io/bio-data)
+  <a href="https://bansaltanish.github.io/bio-data"><img src="./resume.png"></a>
 </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=shashank76.shashank.github.io)](https://github.com/tanishbansal20) [![GitHub followers](https://img.shields.io/github/followers/tanishbansal20.svg?style=social&label=Follow)](https://github.com/tanishbansal20?tab=followers) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TanishBansal)
