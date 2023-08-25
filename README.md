@@ -54,6 +54,9 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
+    <a href="https://github.com/tanishbansal20/Trade_Data_Parser">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=Trade_Data_Parser" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/tanishbansal20/grpc">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanishbansal20&repo=grpc" alt="GitHub Stats" />
     </a>
